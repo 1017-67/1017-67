@@ -41,10 +41,5 @@ Good choices:
 ## Fun stuff
 
 I also enjoy Genshin Impact and sometimes make game-inspired coding projects.
+879110093
 
-<!-- Add image here:
-Optional. Use your own screenshot or your GitHub contribution art.
-Avoid sharing UID, account details, pulls, builds, school info, or anything too personal.
--->
-
-> 不休独舞
