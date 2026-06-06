@@ -15,7 +15,6 @@ I like building small projects around AI, coding, tools, and simulations.
 
 - PyTorch
 - C++
-- TypeScript
 - computer vision
 - transformers
 - building cleaner, more useful projects
