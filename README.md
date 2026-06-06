@@ -1,4 +1,4 @@
-# Hi, i'm Liuhc 👋
+# Hi, I'm Liuhc 👋
 
 I like building small projects around AI, coding, tools, and simulations.
 
