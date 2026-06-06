@@ -2,7 +2,7 @@
 
 I like building small projects around AI, coding, tools, and simulations.
 
-## interests
+## Interests
 
 - machine learning
 - computer vision
@@ -11,7 +11,7 @@ I like building small projects around AI, coding, tools, and simulations.
 - browser tools
 - game-inspired side projects
 
-## what i'm learning
+## What i'm learning
 
 - PyTorch
 - C++
@@ -20,7 +20,7 @@ I like building small projects around AI, coding, tools, and simulations.
 - transformers
 - building cleaner, more useful projects
 
-## projects
+## Projects
 
 Some things I like making:
 
@@ -38,7 +38,7 @@ Good choices:
 - screenshot of an ML demo
 -->
 
-## fun stuff
+## Fun stuff
 
 I also enjoy Genshin Impact and sometimes make game-inspired coding projects.
 
