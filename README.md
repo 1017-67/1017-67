@@ -7,11 +7,6 @@
   I like building small projects around AI, coding, tools, and simulations.
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-experiments-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C%2B%2B-competitive%20programming-purple?style=for-the-badge" />
-</p>
 
 <p align="center">
   ✦ ── 不休独舞 ── ✦
@@ -19,9 +14,6 @@
 
 ## Interests
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,pytorch,opencv,git,github,vscode" />
-</p>
 
 - machine learning
 - computer vision
