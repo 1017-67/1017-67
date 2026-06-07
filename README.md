@@ -10,10 +10,6 @@
 </p>
 
 
-<p align="center">
-  ✦ ── 不休独舞 ── ✦
-</p>
-
 ## Interests
 
 
