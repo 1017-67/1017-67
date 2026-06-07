@@ -12,6 +12,7 @@ I like building small projects around AI, coding, tools, and simulations.
     </td>
   </tr>
 </table>
+
 ## Interests
 
 - machine learning
