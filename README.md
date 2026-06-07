@@ -1,4 +1,4 @@
-# Hi, I'm Liuhc <img src="./assets/furina.webp" alt="furina sticker" width="130" />
+# Hi, I'm Liuhc <img src="Furina-good-take-sticker.webp" alt="furina sticker" width="130" />
 
 I like building small projects around AI, coding, tools, and simulations.
 
