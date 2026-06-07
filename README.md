@@ -1,7 +1,7 @@
 <h1>
   Hi, I'm Liuhc
   <sub>
-    <img src="./Furina-good-take-sticker.webp" alt="furina sticker" width="85" />
+    <img src="./Furina-good-take-sticker.webp" alt="furina sticker" width="80" />
   </sub>
 </h1>
 I like building small projects around AI, coding, tools, and simulations.
