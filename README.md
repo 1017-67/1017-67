@@ -1,6 +1,8 @@
 <h1>
   Hi, I'm Liuhc
+  <sub>
   <img src="./Furina-good-take-sticker.webp" alt="furina sticker" width="80" align="middle" />
+  </sub>
 </h1>
 
 <p>
@@ -22,7 +24,6 @@
 - browser tools
 - game-inspired side projects
 
----
 
 ## What I'm learning
 
@@ -32,7 +33,7 @@
 - transformers
 - building cleaner, more useful projects
 
----
+
 
 ## Projects
 
@@ -59,7 +60,6 @@
   </tr>
 </table>
 
----
 
 ## Fun stuff
 
