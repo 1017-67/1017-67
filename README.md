@@ -1,7 +1,7 @@
 <h1>
   Hi, I'm Liuhc
   <sub>
-  <img src="./Furina-good-take-sticker.webp" alt="furina sticker" width="80" align="middle" />
+    <img src="./Furina-good-take-sticker.webp" alt="furina sticker" width="82" />
   </sub>
 </h1>
 
@@ -68,7 +68,16 @@ Sometimes I make game-inspired coding projects, contribution art, or small exper
   > 不休独舞 · 芙门永存
 
   <p align="center">
-    <img src="./Furina-good-take-sticker.webp" alt="furina sticker" width="120" />
+    <img src="./furina-happy-sticker.webp" alt="furina happy" width="90" />
+    <img src="./furina-sticker-boring.webp" alt="furina boring" width="90" />
+    <img src="./furina-sticker-hard.webp" alt="furina hard" width="90" />
+    <img src="./furina-sticker-hilarious.webp" alt="furina hilarious" width="90" />
+    <img src="./furina-sticker-shocked.webp" alt="furina shocked" width="90" />
+    <img src="./Furina-good-take-sticker.webp" alt="furina good take" width="90" />
+  </p>
+
+  <p align="center">
+    不休独舞 · 芙门永存
   </p>
 
 </details>
