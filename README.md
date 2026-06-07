@@ -76,8 +76,5 @@ Sometimes I make game-inspired coding projects, contribution art, or small exper
     <img src="./Furina-good-take-sticker.webp" alt="furina good take" width="90" />
   </p>
 
-  <p align="center">
-    不休独舞 · 芙门永存
-  </p>
 
 </details>
