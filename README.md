@@ -1,9 +1,12 @@
-<h1>
-  Hi, I'm Liuhc
-  <img src="Furina-good-take-sticker.webp" alt="furina sticker" width="100" align="middle" />
-</h1>
-I like building small projects around AI, coding, tools, and simulations.
+<p align="center">
+  <img src="Furina-good-take-sticker.webp" alt="furina sticker" width="110" />
+</p>
 
+<h1 align="center">Hi, I'm Liuhc</h1>
+
+<p align="center">
+  I like building small projects around AI, coding, tools, and simulations.
+</p>
 ## Interests
 
 - machine learning
