@@ -1,6 +1,7 @@
-<img align="right" src="Furina-good-take-sticker.webp" alt="furina sticker" width="120" />
-# Hi, I'm Liuhc 
-
+<h1>
+  Hi, I'm Liuhc
+  <img src="Furina-good-take-sticker.webp" alt="furina sticker" width="100" align="middle" />
+</h1>
 I like building small projects around AI, coding, tools, and simulations.
 
 ## Interests
@@ -30,13 +31,6 @@ Some things I like making:
 - physics / simulation demos
 - AI-assisted coding workflows
 
-<!-- Add image here:
-A simple banner or project collage. Avoid personal photos.
-Good choices:
-- abstract blue coding banner
-- screenshot of a simulation
-- screenshot of an ML demo
--->
 
 ## Fun stuff
 
