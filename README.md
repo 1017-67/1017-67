@@ -1,4 +1,5 @@
-# Hi, I'm Liuhc <img src="Furina-good-take-sticker.webp" alt="furina sticker" width="130" />
+<img align="right" src="Furina-good-take-sticker.webp" alt="furina sticker" width="120" />
+# Hi, I'm Liuhc 
 
 I like building small projects around AI, coding, tools, and simulations.
 
@@ -40,5 +41,5 @@ Good choices:
 ## Fun stuff
 
 I also enjoy Genshin Impact and sometimes make game-inspired coding projects.
-879110093
+
 
